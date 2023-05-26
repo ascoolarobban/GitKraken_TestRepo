@@ -1,0 +1,7 @@
+hello
+this is line 2 
+and three
+
+will make some conflicts...
+and more conflicts...
+aaaw yes mooore conflicts!
