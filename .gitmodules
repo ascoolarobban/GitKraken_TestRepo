@@ -1,0 +1,3 @@
+[submodule "GK_Fake_Bakend"]
+	path = GK_Fake_Bakend
+	url = https://github.com/ascoolarobban/GK_Fake_Bakend.git
